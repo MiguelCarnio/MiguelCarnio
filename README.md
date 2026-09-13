@@ -1,6 +1,6 @@
-# 👩🏻‍💻 Larissa Kich
+# 👨‍💻 MIGUEL CARNIO
 
-**`Desenvolvedora FullStack`**
+**`Desenvolvedor Fullstack com afinidade em Backend`**
 
 Me chamo Miguel Carnio, tenho 16 anos e sou natural de São Paulo. Curso o ensino médio na ETEC Bento Quirino, com o curso técnico em informática. Quero me profissionalizar em back-end
 
