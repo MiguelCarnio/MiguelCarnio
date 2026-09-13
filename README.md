@@ -19,6 +19,8 @@ Me chamo Miguel Carnio, tenho 16 anos e sou natural de São Paulo. Curso o ensin
 />
 
 <img align="left" 
+    alt="PYTORCH"
+    title="PYTORCH" 
     src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original.svg" 
     width="30px" 
     style="padding-right: 10px;" 
